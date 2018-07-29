@@ -1,0 +1,7 @@
+C:\Users\bmsky\source\repos\Hello Cu\Hello Cu\bin\Debug\Hello Cu.exe.config
+C:\Users\bmsky\source\repos\Hello Cu\Hello Cu\bin\Debug\Hello Cu.exe
+C:\Users\bmsky\source\repos\Hello Cu\Hello Cu\bin\Debug\Hello Cu.pdb
+C:\Users\bmsky\source\repos\Hello Cu\Hello Cu\obj\Debug\Hello Cu.csprojAssemblyReference.cache
+C:\Users\bmsky\source\repos\Hello Cu\Hello Cu\obj\Debug\Hello Cu.csproj.CoreCompileInputs.cache
+C:\Users\bmsky\source\repos\Hello Cu\Hello Cu\obj\Debug\Hello Cu.exe
+C:\Users\bmsky\source\repos\Hello Cu\Hello Cu\obj\Debug\Hello Cu.pdb
